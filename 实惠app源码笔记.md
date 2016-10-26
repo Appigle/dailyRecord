@@ -27,5 +27,3 @@ tag:
 * `pull_to_refresh_lib`:下拉刷新处理库；
 
 #### 主项目`wemicommunity`
-1. 熟悉AndroidManifest.xml文件，为每个Activity添加注释说明。了解项目的大概页面情况；
-2. 
