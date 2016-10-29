@@ -27,3 +27,8 @@ tag:
 * `pull_to_refresh_lib`:下拉刷新处理库；
 
 #### 主项目`wemicommunity`
+1. 网络请求底层使用httpClient请求；
+
+##### 源代码功能很多地方使用了`JSONObject`和`JSONArray`解析json格式数据；
+1. ShopCartFragment-》analysisStoreEntityList（）方法；
+
